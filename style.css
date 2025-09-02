@@ -54,11 +54,11 @@ main h1 {
 
 /* Rodapé */
 footer {
-    background-color: #fcb1f4;
+    background: linear-gradient(135deg, #2d08ff, #5b40f5);
     padding: 15px;
     margin-top: 30px;
     font-size: 0.9em;
-    color: #4f0363;
+    color: #080708;
     box-shadow: 0 -2px 6px rgba(0,0,0,0.2);
 }
 
