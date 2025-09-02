@@ -91,7 +91,7 @@ footer {
 }
 
 .filial {
-    background-color: #ffffff;
+    background: linear-gradient(135deg, #9e9b9b, #ffffff);
     border-radius: 12px;
     padding: 20px;
     width: 250px;
