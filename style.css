@@ -128,7 +128,7 @@ footer {
 }
 
 .contato-form button {
-    background: #000000;
+    background: #580039;
     color: white;
     padding: 10px;
     border: none;
@@ -139,5 +139,5 @@ footer {
 }
 
 .contato-form button:hover {
-    background: #000000;
+    background: #580039;
 }
