@@ -47,11 +47,11 @@ async function carregarConteudo() {
       bloco.className = 'bloco-item';
 
       const titulo = document.createElement('h2');
-      titulo.textContent = item.Título || '';
+      titulo.textContent = item.Titulo || '';
       bloco.appendChild(titulo);
 
       const descricao = document.createElement('p');
-      descricao.textContent = item.Descrição || '';
+      descricao.textContent = item.Descricao || '';
       bloco.appendChild(descricao);
 
       if (item.Url && item.Url.startsWith('http')) {
