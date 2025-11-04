@@ -35,7 +35,7 @@
 const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzkwK9gsLbgLmVrfyAuunoyRv7_lsvnpxBT7f3PwOvHmXglgH1BHWX2J3y2ZMzPdMnyyA/exec"
 async function carregarConteudo() {
   const container = document.getElementById('conteudo');
-  container.innerHTML = "<p>Carregando conteúdo...</p>";
+  container.innerHTML = "<p>Carregando conteudo...</p>";
 
   try {
     const res = await fetch(SCRIPT_URL);
