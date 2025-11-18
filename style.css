@@ -274,7 +274,3 @@ footer {
 .tema-escuro .tema-toggle .bolinha {
   transform: translateX(24px);
 }
-.tema-escuro body,
-body.tema-escuro {
-    background: linear-gradient(to right, #0a0f16, #1c2635);
-}
